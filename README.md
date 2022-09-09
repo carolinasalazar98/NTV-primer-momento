@@ -1,2 +1,3 @@
-# NTV-primer-momento
-Se desarrolla examen para notas del primer momento
+## Nuevas Tecnologias Primer Momento
+****
+#### Septiembre 09 2022
